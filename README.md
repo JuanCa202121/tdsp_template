@@ -1,4 +1,5 @@
 # Team Data Science Project Template
+Se usará esta plantilla por el grupo 19 para implementar el proyecto del modulo Metodologías Agiles implementadas al machine learning.
 
 Esta plantilla es una implementación de la plantilla de proyecto de Team Data Science Process que actualmente se utiliza en el "Programa de Formación en Machine Learning y Data Science" en la Universidad Nacional de Colombia.
 

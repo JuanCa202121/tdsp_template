@@ -9,7 +9,7 @@ En esta sección se presenta un resumen general de los datos. Se describe el nú
 ## Resumen de calidad de los datos
 
 En esta sección se presenta un resumen de la calidad de los datos. Se describe la cantidad y porcentaje de valores faltantes, valores extremos, errores y duplicados. También se muestran las acciones tomadas para abordar estos problemas.
-
+Los valores son
 ## Variable objetivo
 
 En esta sección se describe la variable objetivo. Se muestra la distribución de la variable y se presentan gráficos que permiten entender mejor su comportamiento.
