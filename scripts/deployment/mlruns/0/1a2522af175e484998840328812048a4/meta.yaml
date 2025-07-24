@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Desktop/MODULO%20METODOLOG%C3%8DAS%20AGILES/Proyecto/tdsp_template/scripts/deployment/mlruns/0/1a2522af175e484998840328812048a4/artifacts
+end_time: 1753335096754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a2522af175e484998840328812048a4
+run_name: resilient-shrimp-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753335089340
+status: 3
+tags: []
+user_id: Lenovo

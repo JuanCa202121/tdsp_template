@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Lenovo/Desktop/MODULO%20METODOLOG%C3%8DAS%20AGILES/Proyecto/tdsp_template/scripts/deployment/mlruns/0/models/m-37fc2151ade14eba933112b06525ff29/artifacts
+creation_timestamp: 1753336040488
+experiment_id: '0'
+last_updated_timestamp: 1753336043382
+model_id: m-37fc2151ade14eba933112b06525ff29
+model_type: null
+name: model
+source_run_id: 6232afe06fd84a53b2c972395c45e268
+status: 2
+status_message: null
