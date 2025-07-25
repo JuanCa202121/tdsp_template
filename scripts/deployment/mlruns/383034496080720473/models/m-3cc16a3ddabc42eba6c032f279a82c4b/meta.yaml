@@ -1,0 +1,10 @@
+artifact_location: file:///c:\Users\Lenovo\Desktop\MODULO METODOLOGÍAS AGILES\Proyecto\tdsp_template\scripts\deployment\mlruns/383034496080720473/models/m-3cc16a3ddabc42eba6c032f279a82c4b/artifacts
+creation_timestamp: 1753407791700
+experiment_id: '383034496080720473'
+last_updated_timestamp: 1753407798992
+model_id: m-3cc16a3ddabc42eba6c032f279a82c4b
+model_type: null
+name: model
+source_run_id: 46287667794c48b9bb09ec0f25c86b75
+status: 2
+status_message: null

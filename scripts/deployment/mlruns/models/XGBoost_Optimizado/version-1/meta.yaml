@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1753408028363
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1753408028363
+metrics: null
+model_id: m-2b687cda50104d1dbb7260f20dc040d5
+name: XGBoost_Optimizado
+params: null
+run_id: 30198dc24aff457a80119118ee91a23a
+run_link: null
+source: models:/m-2b687cda50104d1dbb7260f20dc040d5
+status: READY
+status_message: null
+storage_location: file:///c:\Users\Lenovo\Desktop\MODULO METODOLOGÍAS AGILES\Proyecto\tdsp_template\scripts\deployment\mlruns/383034496080720473/models/m-2b687cda50104d1dbb7260f20dc040d5/artifacts
+user_id: null
+version: 1

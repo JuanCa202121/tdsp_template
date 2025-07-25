@@ -1,0 +1,50 @@
+artifact_path: "file:///c:\\Users\\Lenovo\\Desktop\\MODULO METODOLOG\xCDAS AGILES\\\
+  Proyecto\\tdsp_template\\scripts\\deployment\\mlruns/749312102875712506/models/m-2364737552fc483fbaf625bc103928ec/artifacts"
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.22
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-2364737552fc483fbaf625bc103928ec
+model_size_bytes: 1811436
+model_uuid: m-2364737552fc483fbaf625bc103928ec
+prompts: null
+run_id: d20e1eff8afa4e63ad58055419fa42db
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "LIMIT_BAL", "required": true}, {"type": "long",
+    "name": "SEX", "required": true}, {"type": "long", "name": "EDUCATION", "required":
+    true}, {"type": "long", "name": "MARRIAGE", "required": true}, {"type": "long",
+    "name": "AGE", "required": true}, {"type": "long", "name": "PAY_0", "required":
+    true}, {"type": "long", "name": "PAY_2", "required": true}, {"type": "long", "name":
+    "PAY_3", "required": true}, {"type": "long", "name": "PAY_4", "required": true},
+    {"type": "long", "name": "PAY_5", "required": true}, {"type": "long", "name":
+    "PAY_6", "required": true}, {"type": "double", "name": "BILL_AMT1", "required":
+    true}, {"type": "double", "name": "BILL_AMT2", "required": true}, {"type": "double",
+    "name": "BILL_AMT3", "required": true}, {"type": "double", "name": "BILL_AMT4",
+    "required": true}, {"type": "double", "name": "BILL_AMT5", "required": true},
+    {"type": "double", "name": "BILL_AMT6", "required": true}, {"type": "double",
+    "name": "PAY_AMT1", "required": true}, {"type": "double", "name": "PAY_AMT2",
+    "required": true}, {"type": "double", "name": "PAY_AMT3", "required": true}, {"type":
+    "double", "name": "PAY_AMT4", "required": true}, {"type": "double", "name": "PAY_AMT5",
+    "required": true}, {"type": "double", "name": "PAY_AMT6", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-25 02:02:19.666659'
