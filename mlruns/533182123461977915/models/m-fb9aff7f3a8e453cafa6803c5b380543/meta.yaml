@@ -1,0 +1,10 @@
+artifact_location: file:///C:\Users\Lenovo\Desktop\MODULO METODOLOGÍAS AGILES\Proyecto\tdsp_template\mlruns/533182123461977915/models/m-fb9aff7f3a8e453cafa6803c5b380543/artifacts
+creation_timestamp: 1753748958051
+experiment_id: '533182123461977915'
+last_updated_timestamp: 1753748969186
+model_id: m-fb9aff7f3a8e453cafa6803c5b380543
+model_type: null
+name: XGBoost_Optimizado
+source_run_id: 170a6a0f0c4c4aa7beaac7d60ba55396
+status: 2
+status_message: null

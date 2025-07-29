@@ -1,0 +1,23 @@
+artifact_path: "file:///C:\\Users\\Lenovo\\Desktop\\MODULO METODOLOG\xCDAS AGILES\\\
+  Proyecto\\tdsp_template\\mlruns/533182123461977915/models/m-0a108ddd597a4df3a3552e25dfb2a893/artifacts"
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.22
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-0a108ddd597a4df3a3552e25dfb2a893
+model_size_bytes: 849119
+model_uuid: m-0a108ddd597a4df3a3552e25dfb2a893
+prompts: null
+run_id: 9efe1d179f8040d5a09e69f9c0cb656c
+utc_time_created: '2025-07-29 00:40:30.641252'
